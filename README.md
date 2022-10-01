@@ -1,15 +1,16 @@
-![spreads](https://user-images.githubusercontent.com/70388982/193379351-ede0756e-851c-4162-90da-79c633d22987.png)
-![teamChanges](https://user-images.githubusercontent.com/70388982/193379352-ad8800c3-fcd1-4a1d-b5d1-b740d4f28418.png)
 # NFL Spread Generator
 
 Author: Adam Johnes
+*IMAGES BELOW*
 
 To compile/run on a linux system:
 
 >A Makefile is provided
 
 run 'Make'
+
 run the executable using ./
+
 (i.e) -> make -> ./predict
 
 To run on windows:
@@ -24,6 +25,10 @@ The idea is that during these comparisons, a few games will be quite a bit unali
 -----------------------------------------------------
 
 Avoid manipulating the provided .txt files as this will cause unwanted results. Users can update the data through means provided by the program.
+
+
+![spreads](https://user-images.githubusercontent.com/70388982/193379351-ede0756e-851c-4162-90da-79c633d22987.png)
+![teamChanges](https://user-images.githubusercontent.com/70388982/193379352-ad8800c3-fcd1-4a1d-b5d1-b740d4f28418.png)
 
 
 
