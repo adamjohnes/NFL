@@ -1,3 +1,6 @@
+//AUTHOR: ADAM JOHNES
+//DATE: September 9th, 2022 21:31:00
+
 #include "Team.h"
 #include <string>
 #include <iostream>
