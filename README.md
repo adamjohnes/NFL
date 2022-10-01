@@ -13,6 +13,8 @@ run the executable using ./
 
 (i.e) -> make -> ./predict
 
+A compressed tarball is also provided, with all the same files in an organized manner under the file name: NFL.tar.gz
+
 To run on windows:
 
 Click on predict.exe
