@@ -1,3 +1,6 @@
+//AUTHOR: ADAM JOHNES
+//DATE: September 9th, 2022 21:31:00
+
 #include "Spread.h"
 #include "Team.h"
 #include <string>
